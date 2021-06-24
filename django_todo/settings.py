@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-z_q@dw8zd()eq8e_#s2(#uq3hpb$xwb!20t2mau#bxa24nym+t
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ferdia-django-todo-app.herokuapp.com']
 
 
 # Application definition
